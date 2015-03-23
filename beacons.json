@@ -1,0 +1,102 @@
+{
+    "beacons": [
+        {
+            "description": "",
+            "id": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+            "name": "Estimote",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "ed3a6985-8872-4bb7-b784-c59ef3589844",
+            "name": "Kontakt IO",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "A1EA8111-0E1B-D4A1-B840-63F88C8DA1EA",
+            "name": "Kontakt IO",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+            "name": "Apple",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "8DEEFBB9-F738-4297-8040-96668BB44281",
+            "name": "Roximity",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "B0702881-A295-A8AB-F734-031A98A512DE",
+            "name": "RedBear",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "AA6062F0-98CA-4211-8EC4-193EB73CEBE6",
+            "name": "Open Beacon",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "F0018B9B-7509-4C31-A905-1A27D39C003C",
+            "name": "Beacon Inside",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "A1EA8121-0E1B-D4A1-B840-63F88C8DA1EA",
+            "name": "Kontakt IO",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "5A4BCFCE-174E-4BAC-A814-092E77F6B7E5",
+            "name": "Air Locate",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "74278BDA-B644-4520-8F0C-720EAF059935",
+            "name": "Air Locate",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "2F234454-CF6D-4A0F-ADF2-F4911BA9FFA6",
+            "name": "Radius Networks",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "A0B13730-3A9A-11E3-AA6E-0800200C9A66",
+            "name": "blueSense",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "C48C6716-193F-477B-B73A-C550CE582A22",
+            "name": "BKON",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "D1E6BC8B-D779-4517-B6E3-183162D31D96",
+            "name": "t\u014dd",
+            "triggers": []
+        },
+        {
+            "description": "",
+            "id": "19D5F76A-FD04-5AA3-B16E-E93277163AF6",
+            "name": "GemTot",
+            "triggers": []
+        }
+    ],
+    "id": "ProximityUUID Listing",
+    "name": "ProximityUUID Listing"
+}
